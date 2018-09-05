@@ -235,10 +235,6 @@
       <Project>{ef76c732-ffc5-4a5d-bf97-c30229fe2acc}</Project>
       <Name>TH_UDA_Shop.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TH_UDA_Shop.Data\TH_UDA_Shop.Data.csproj">
-      <Project>{467c5204-6488-4541-b9be-fe8d97efbb67}</Project>
-      <Name>TH_UDA_Shop.Data</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TH_UDA_Shop.Model\TH_UDA_Shop.Model.csproj">
       <Project>{0846078a-aa4a-40fc-8c49-46346e0b69e8}</Project>
       <Name>TH_UDA_Shop.Model</Name>

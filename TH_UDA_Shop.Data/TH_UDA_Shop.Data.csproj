@@ -58,6 +58,18 @@
       <Project>{ef76c732-ffc5-4a5d-bf97-c30229fe2acc}</Project>
       <Name>TH_UDA_Shop.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TH_UDA_Shop.Model\TH_UDA_Shop.Model.csproj">
+      <Project>{0846078a-aa4a-40fc-8c49-46346e0b69e8}</Project>
+      <Name>TH_UDA_Shop.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TH_UDA_Shop.Service\TH_UDA_Shop.Service.csproj">
+      <Project>{3f844d9d-1f18-4ac7-b812-f1ce9caf9bfd}</Project>
+      <Name>TH_UDA_Shop.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TH_UDA_Shop.Web\TH_UDA_Shop.Web.csproj">
+      <Project>{65b3abd4-9d5b-4390-b8b9-d22cd0472e4c}</Project>
+      <Name>TH_UDA_Shop.Web</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
